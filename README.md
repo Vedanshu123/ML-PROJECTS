@@ -4,10 +4,10 @@ This repository contains a collection of machine learning projects implemented i
 
 ## Projects Included
 
-- Supervised Learning (Regression & Classification)
-- Unsupervised Learning (Clustering)
-- Data Preprocessing & Visualization
-- Model Evaluation & Metrics
+- Hate speech recognition using DL(NLP)
+- Stock Market Analysis and prediction using LSTM
+- Stock Price Prediction using Tensorflow
+- time series forecasting with machine learning
 
 ## Tools & Libraries
 
@@ -16,6 +16,7 @@ This repository contains a collection of machine learning projects implemented i
 - NumPy, Pandas
 - Matplotlib, Seaborn
 - Scikit-learn
+- Natural Language Toolkit(NLTK)
 
 ## How to Run
 
