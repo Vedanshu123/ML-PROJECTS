@@ -7,7 +7,7 @@ This repository contains a collection of machine learning projects implemented i
 - Hate speech recognition using DL(NLP)
 - Stock Market Analysis and prediction using LSTM
 - Stock Price Prediction using Tensorflow
-- time series forecasting with machine learning
+- Time series forecasting with machine learning
 
 ## Tools & Libraries
 
@@ -18,19 +18,3 @@ This repository contains a collection of machine learning projects implemented i
 - Scikit-learn
 - Natural Language Toolkit(NLTK)
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Vedanshu123/ML-PROJECTS.git
-   ```
-2. Navigate to the project folder and open the notebook:
-   ```bash
-   jupyter notebook
-   ```
-
-
-
----
-
-Would you like me to add badges or a sample project showcase section too?
